@@ -1,2 +1,3 @@
 zhe shi yi ge li zi
 wo shi yi ge mei de gan qing de sha shou
+git status  git diff demo.txt  git log   git reset head^ 
